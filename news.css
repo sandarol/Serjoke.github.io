@@ -1,0 +1,31 @@
+#blocknews{
+    width: 100vw;
+    height: 110vh;
+    position: absolute;
+    margin-left: 100vw;
+    display: none;
+    overflow-x: hidden;
+}
+
+#headnews{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 20vh;
+    color: #39FF14;
+    font-family: text1;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 30px;
+    font-size: 20px;
+    text-shadow: 0px 0px 10px  #39FF14;
+    background-color: rgba(0,0,0,.7);
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+
+#mainnewstext{
+        margin-top: 10vh;
+        text-align: left;
+    border-top: 2px solid #39FF14;
+    }
